@@ -6,5 +6,6 @@
 [subrepo]
 	remote = https://github.com/maurop123/templates-common.git
 	branch = subrepo/components
-	commit = 
+	commit = 1041079851e7e13294664c752dc3afc01739ac5d
 	cmdver = 0.3.1
+	parent = 93db7bd2c775d0fd71261fa46a6e05a9a307524b
